@@ -1,1 +1,1 @@
-# Fetch-Image-From-Api-Assignment
+# Fetch Image From Api Assignment
